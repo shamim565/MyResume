@@ -216,3 +216,14 @@ img{
     padding-left: 0px;
 }
 }
+@media(max-width:500px){
+    img{
+        position: relative;
+        vertical-align: text-bottom;
+        height: 140px;
+        width: 130px;
+        padding-left: 8px;
+        right:10px;
+
+    }
+}
